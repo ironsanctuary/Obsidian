@@ -9,4 +9,4 @@ Welcome to your vault. This is the top-level Map of Content — links to indexed
 
 ## Notes
 
-_No notes yet. Upload files and they'll be indexed and linked here._
+- [[Idea - Better Lenus coaching app]]
